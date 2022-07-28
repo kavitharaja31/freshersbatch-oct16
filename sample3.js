@@ -2,8 +2,8 @@
 <head>
 <title>sample3</title>
 <script type="text/javascript">
-var rows=prompt("no of rows on your multiplication table:");
-var cols= prompt("no of cols on your multiplication table:");
+var rows=prompt("no of rows on the table:");
+var cols= prompt("no of cols on your the table:");
 if(rows==""||rows==null)
 rows=10;
 if(cols==""||cols=null)
