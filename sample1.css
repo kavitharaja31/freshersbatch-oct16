@@ -1,0 +1,19 @@
+<html>
+ <head>
+    <title>
+        Simple webpage
+    </title>
+    <style>
+        body {
+            text-align: center;
+        }
+        h1 {
+            color: green;
+        }
+    </style>
+ </head>
+<body>
+    <h1>Welcome to  capgemini!</h1>
+    <p>Fresherbatch oct-16</p>
+</body>
+</html>
