@@ -2,10 +2,10 @@
 <head>
 <style>
 body{
-  background-color:lightblue;
+  background-color:green;
 }
 h1{
-  color:white;
+  color:red;
   text-align:center;
 }
 p{
@@ -16,6 +16,6 @@ p{
 </head>
 <body>
 <h1>My CSS sample<h1>
-<p>s</p>
+<p>sample1</p>
 </body>
 </html>
