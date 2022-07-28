@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>sample3</title>
+<body>
 <script type="text/javascript">
 var rows=prompt("no of rows on the table:");
 var cols= prompt("no of cols on your the table:");
@@ -29,6 +30,5 @@ function createTable(rows,cols)
 }
 </script>
 </head>
-<body>
 </body>
 </html>
